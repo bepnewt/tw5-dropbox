@@ -7,6 +7,15 @@ bepnewt@gmail.com
 
 Reply from Arlen:
 
-Normally you do this on the Dropbox website. When you open the page, it immediately asks Dropbox for permission to access your Dropbox files. If you have granted it permission in the past, Dropbox returns an auth token. It does this every time you load the page, so it is never stored in your browser, and you must be logged into your Dropbox account when you open the page. The security lies in the fact that it will only return the token by redirecting your browser to a previously-agreed-upon URL with the token set as the hash string.
+Normally you do this on the Dropbox website. When you open the page, 
+it immediately asks Dropbox for permission to access your Dropbox files. 
+If you have granted it permission in the past, Dropbox returns an auth 
+token. It does this every time you load the page, so it is never stored 
+in your browser, and you must be logged into your Dropbox account when 
+you open the page. The security lies in the fact that it will only return 
+the token by redirecting your browser to a previously-agreed-upon URL 
+with the token set as the hash string.
 
-In order to revoke permission, you need to log into your Dropbox account and revoke permissions somewhere in your security settings for TW5 in the Sky (Arlen22).
+In order to revoke permission, you need to log into your Dropbox 
+account and revoke permissions somewhere in your security settings 
+for TW5 in the Sky (Arlen22).
